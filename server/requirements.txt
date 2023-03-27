@@ -1,0 +1,8 @@
+fastapi
+fastapi-login
+pydantic[dotenv, email]
+python-multipart
+uvicorn
+sqlalchemy
+httpx
+spacy
