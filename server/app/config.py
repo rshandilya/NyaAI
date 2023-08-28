@@ -1,6 +1,6 @@
 import pathlib
 
-from pydantic import BaseSettings
+from pydantic_settings import BaseSettings
 
 root = pathlib.Path(__file__).parent.parent
 # This will always give the correct path as long as .env is in the parent directory
