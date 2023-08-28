@@ -1,6 +1,7 @@
 fastapi
 fastapi-login
 pydantic[dotenv, email]
+pydantic-settings
 python-multipart
 uvicorn
 sqlalchemy
